@@ -1,0 +1,1 @@
+This is a git repo derived from [here](https://github.com/guidovranken/protobuf-c-fuzzers.git), which includes a fuzzing harness for the [protobuf-c](https://github.com/protobuf-c/protobuf-c) project.
